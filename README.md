@@ -1,7 +1,7 @@
 # Protótipo - Jogo 002  
 
-##Minicurso 2 - Protótipo prático 
-##Profª Andrea Vargas - 2021
+## Minicurso 2 - Protótipo prático 
+## Profª Andrea Vargas - 2021
 
 * Jogo do Papai Noel 
 
