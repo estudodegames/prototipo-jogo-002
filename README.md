@@ -1,6 +1,6 @@
 # Protótipo - Jogo 002  
 
-## Minicurso 2 - Protótipo prático 
+## Minicurso 2  
 ## Profª Andrea Vargas - 2021
 
 Protótipo prático de um Jogo 2D de Ação e Aventura para PC.
