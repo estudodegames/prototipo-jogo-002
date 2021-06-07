@@ -3,10 +3,10 @@
 ## Minicurso 2 - Protótipo prático 
 ## Profª Andrea Vargas - 2021
 
-### Informações gerais
-
 * Jogo do Papai Noel 
 Papai Noel vivendo algumas aventuras para recuperar os presenets de Natal dos Zumbis surripiadores.
+
+Informações gerais:
 
 * Engine: Desenvolvido no Construct 2 279 64 Bits
 
