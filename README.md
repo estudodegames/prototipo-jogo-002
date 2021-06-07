@@ -7,11 +7,9 @@ Resumo do conceito: Papai Noel vivendo algumas aventuras para recuperar os prese
 
 Informações gerais:
 
-* Engine: Desenvolvido no Construct 2 279 64 Bits
+* Desenvolvido no Construct 2 279 64 Bits
 
-* Plataforma 2D 
-
-* Side Scrolling
+* Plataforma 2D, ação, aventura. Side Scrolling.
 
 As informações necessárias para o acompanhamento do minicurso estão disponibilizadas para download pelos seguintes arquivos:
 
