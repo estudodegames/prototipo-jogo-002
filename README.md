@@ -7,7 +7,7 @@ Resumo do conceito: Papai Noel vivendo algumas aventuras para recuperar os prese
 
 Informações gerais:
 
-* Desenvolvido no Construct 2 279 64 Bits
+* Desenvolvido no Construct 2 279 64 Bits.
 
 * Plataforma 2D, ação, aventura. Side Scrolling.
 
