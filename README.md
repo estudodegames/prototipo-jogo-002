@@ -3,8 +3,9 @@
 ## Minicurso 2 - Protótipo prático 
 ## Profª Andrea Vargas - 2021
 
-* Jogo do Papai Noel 
-Papai Noel vivendo algumas aventuras para recuperar os presenets de Natal dos Zumbis surripiadores.
+* Resumo do conceito:
+* 
+Papai Noel vivendo algumas aventuras para recuperar os presentes de Natal roubado pelos Zumbis surrupiadores.
 
 Informações gerais:
 
