@@ -3,9 +3,7 @@
 ## Minicurso 2 - Protótipo prático 
 ## Profª Andrea Vargas - 2021
 
-* Resumo do conceito
-
-Papai Noel vivendo algumas aventuras para recuperar os presentes de Natal roubado pelos Zumbis surrupiadores.
+Resumo do conceito: Papai Noel vivendo algumas aventuras para recuperar os presentes de Natal roubado pelos Zumbis surrupiadores.
 
 Informações gerais:
 
