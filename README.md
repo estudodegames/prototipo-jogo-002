@@ -3,9 +3,12 @@
 ## Minicurso 2 - Protótipo prático 
 ## Profª Andrea Vargas - 2021
 
-* Jogo do Papai Noel 
+### Informações gerais
 
-* Desenvolvido no Construct 2 279 64 Bits
+* Jogo do Papai Noel 
+Papai Noel vivendo algumas aventuras para recuperar os presenets de Natal dos Zumbis surripiadores.
+
+* Engine: Desenvolvido no Construct 2 279 64 Bits
 
 * Plataforma 2D 
 
