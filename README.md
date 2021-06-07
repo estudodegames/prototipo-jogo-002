@@ -1,9 +1,13 @@
-# prototipo-jogo-002
+# Protótiop Jogo 002  
 
 Minicurso 2 - Protótipo prático [Profª Andrea Vargas - 2021]
+
 Jogo do Papai Noel 
+
 Desenvolvido no Construct 2 279 64 Bits
+
 Plataforma 2D 
+
 Side Scrolling
 
 As informações necessárias para o acompanhamento do minicurso estão disponibilizadas para download pelos seguintes arquivos:
