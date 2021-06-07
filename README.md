@@ -1,4 +1,4 @@
-# Protótiop Jogo 002  
+# Protótipo - Jogo 002  
 
 Minicurso 2 - Protótipo prático [Profª Andrea Vargas - 2021]
 
