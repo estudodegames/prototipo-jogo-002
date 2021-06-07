@@ -2,13 +2,13 @@
 
 Minicurso 2 - Protótipo prático [Profª Andrea Vargas - 2021]
 
-Jogo do Papai Noel 
+* Jogo do Papai Noel 
 
-Desenvolvido no Construct 2 279 64 Bits
+* Desenvolvido no Construct 2 279 64 Bits
 
-Plataforma 2D 
+* Plataforma 2D 
 
-Side Scrolling
+* Side Scrolling
 
 As informações necessárias para o acompanhamento do minicurso estão disponibilizadas para download pelos seguintes arquivos:
 
