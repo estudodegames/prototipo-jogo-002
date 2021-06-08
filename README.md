@@ -3,9 +3,9 @@
 ## Minicurso 2  
 ## Profª Andrea Vargas - 2021
 
-Protótipo prático de um Jogo 2D de Ação e Aventura para PC.
+Protótipo prático de um Jogo 2D de ação e aventura para PC.
 
-Resumo do conceito: Papai Noel vivendo algumas aventuras para recuperar os presentes de Natal roubado pelos Zumbis surrupiadores.
+Resumo do conceito: Papai Noel vivendo algumas aventuras para recuperar os presentes de Natal roubados pelos Zumbis surrupiadores.
 
 Informações gerais:
 
