@@ -25,7 +25,7 @@ https://www.gameart2d.com/winter-platformer-game-tileset.html
 * SANTA CLAUS - FREE SPRITE
 https://www.gameart2d.com/santa-claus-free-sprites.html
 
-3 - SFXs.zip (sound effects). Créditos: Profª Andrea Vargas
+2 - SFXs.zip (sound effects). Créditos: Profª Andrea Vargas
 
 Observações:
 
