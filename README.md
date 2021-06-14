@@ -17,7 +17,17 @@ As informações necessárias para o acompanhamento do minicurso estão disponib
 
 1 - Jogo 02 Prototipo-2.mp4 (Gameplay).
 
-2 - PNGs.zip (imagens) e SFXs.zip (sound effects). Créditos: Profª Andrea Vargas
+2 - ASSETS_Imagens.zip (imagens). 
+
+Créditos:
+
+* FREE WINTER PLATFORMER GAME TILESET 
+https://www.gameart2d.com/winter-platformer-game-tileset.html
+
+* SANTA CLAUS - FREE SPRITE
+https://www.gameart2d.com/santa-claus-free-sprites.html
+
+3 - SFXs.zip (sound effects). Créditos: Profª Andrea Vargas
 
 Observações:
 
