@@ -31,6 +31,6 @@ https://www.gameart2d.com/santa-claus-free-sprites.html
 
 Observações:
 
-O protótipo está publicado no link "secreto": https://jogo-de-plataforma-2d-do-papai-noel-prof-andreavargas.netlify.app/ Vamos jogar? Avalie os conceitos de game design e as funcionalidades básicas aplicadas ao game.
+O protótipo está publicado no link "secreto": https://jogo-02-prototipo-2.netlify.app/ Vamos jogar? Avalie os conceitos de game design e as funcionalidades básicas aplicadas ao game. Existem bugs?
 
-A engine utilizada para o desenolvimento do minicurso é Construct 2. Site oficial: https://www.construct.net/en
+A engine utilizada para o desenolvimento do minicurso é Construct 2 (versão gratuita). Site oficial: https://www.construct.net/en
