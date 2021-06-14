@@ -7,6 +7,8 @@ Protótipo prático de um Jogo 2D de ação e aventura para PC.
 
 Resumo do conceito: Papai Noel vivendo algumas aventuras para recuperar os presentes de Natal roubados pelos Zumbis surrupiadores.
 
+Atenção! Coletar o maior número possível de presentes, pois é única forma de evoluir nas fases e conquistar a vitória.
+
 Informações gerais:
 
 * Desenvolvido no Construct 2 279 64 Bits.
