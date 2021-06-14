@@ -19,9 +19,7 @@ As informações necessárias para o acompanhamento do minicurso estão disponib
 
 1 - Jogo 02 Prototipo-2.mp4 (Gameplay).
 
-2 - ASSETS_Imagens.zip (imagens). 
-
-Créditos:
+2 - ASSETS_Imagens.zip (imagens). Créditos:
 
 * FREE WINTER PLATFORMER GAME TILESET 
 https://www.gameart2d.com/winter-platformer-game-tileset.html
