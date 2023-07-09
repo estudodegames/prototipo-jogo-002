@@ -5,6 +5,10 @@
 
 Protótipo prático de um Jogo 2D de ação e aventura para PC (Web).
 
+<div align = "center">
+<img src ="https://github.com/andreacvr/prototipo-jogo-002/assets/73232081/b9371f84-3ae6-4e5b-8087-a6e37eb20220" width=400px>
+</div>
+
 Resumo do conceito: Papai Noel vivendo algumas aventuras para recuperar os presentes de Natal roubados pelos Zumbis surrupiadores.
 
 Atenção! Coletar o maior número possível de presentes, pois é única forma de evoluir nas fases e conquistar a vitória.
